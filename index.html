@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+
+<meta charset="utf-8">
+
+<head>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script>
+    const margin = {top: 40, right: 20, bottom: 40, left: 60},
+        width = 600 - margin.left - margin.right,
+        height = 400 - margin.top - margin.bottom;
+    </script>
+    <script src="./stop_stacked_count.js" defer></script>
+    <script src="./stop_stacked_percent.js" defer></script>
+    <script src="./outcome_stacked_count.js" defer></script>
+    <script src="./outcome_stacked_percent.js" defer></script>
+</head>
+
+<body>
+    <div id="stop-count">
+        <div id="stop-count-container"></div>  
+        <svg id="stop-count-legend" width="600" height="50"></svg>
+    </div>
+
+    <div id="stop-percent">
+        <div id="stop-percent-container"></div>  
+        <svg id="stop-percent-legend" width="600" height="50"></svg>
+    </div>
+
+    <div id="outcome-count">
+        <label for="outcome-count-select"> Select Outcome:</label>
+        <select id="outcome-count-select"></select>
+        <div id="outcome-count-container"></div>  
+        <svg id="outcome-count-legend" width="600" height="50"></svg>
+    </div>
+    
+    <div id="outcome-percent">
+        <label for="outcome-percent-select"> Select Outcome:</label>
+        <select id="outcome-percent-select"></select>
+        <div id="outcome-percent-container"></div>
+        <svg id="outcome-percent-legend" width="600" height="50"></svg>
+    </div>
+</body>
+
+<style>
+    .tooltip {
+        position: absolute;
+        background: rgba(0, 0, 0, 1);
+        color: white;
+        padding: 6px 10px;
+        border-radius: 4px;
+        pointer-events: none;
+        font-size: 12px;
+    }
+    
+    .legend rect {
+        stroke-width: 1;
+        stroke: black ;
+    }
+
+    #stop-count {
+        float: left;
+    }
+
+    #stop-percent {
+        float: left;
+    }
+
+    #outcome-count {
+        float: left;
+    }
+
+    #outcome-percent {
+        float: left;
+    }
+
+</style>

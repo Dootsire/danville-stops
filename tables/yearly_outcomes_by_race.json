@@ -1,0 +1,2090 @@
+[
+  {
+    "Year": 2004,
+    "Outcome": "Citation",
+    "Race": "White",
+    "Count": 1769
+  },
+  {
+    "Year": 2004,
+    "Outcome": "Citation",
+    "Race": "Black",
+    "Count": 1069
+  },
+  {
+    "Year": 2004,
+    "Outcome": "Citation",
+    "Race": "Hispanic",
+    "Count": 117
+  },
+  {
+    "Year": 2004,
+    "Outcome": "Citation",
+    "Race": "Asian",
+    "Count": 12
+  },
+  {
+    "Year": 2004,
+    "Outcome": "Citation",
+    "Race": "Native American",
+    "Count": 1
+  },
+  {
+    "Year": 2004,
+    "Outcome": "Citation",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2009,
+    "Outcome": "Citation",
+    "Race": "White",
+    "Count": 1805
+  },
+  {
+    "Year": 2009,
+    "Outcome": "Citation",
+    "Race": "Black",
+    "Count": 1013
+  },
+  {
+    "Year": 2009,
+    "Outcome": "Citation",
+    "Race": "Hispanic",
+    "Count": 99
+  },
+  {
+    "Year": 2009,
+    "Outcome": "Citation",
+    "Race": "Asian",
+    "Count": 14
+  },
+  {
+    "Year": 2009,
+    "Outcome": "Citation",
+    "Race": "Native American",
+    "Count": 2
+  },
+  {
+    "Year": 2009,
+    "Outcome": "Citation",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2023,
+    "Outcome": "Written Warning",
+    "Race": "White",
+    "Count": 965
+  },
+  {
+    "Year": 2023,
+    "Outcome": "Written Warning",
+    "Race": "Black",
+    "Count": 1275
+  },
+  {
+    "Year": 2023,
+    "Outcome": "Written Warning",
+    "Race": "Hispanic",
+    "Count": 63
+  },
+  {
+    "Year": 2023,
+    "Outcome": "Written Warning",
+    "Race": "Asian",
+    "Count": 10
+  },
+  {
+    "Year": 2023,
+    "Outcome": "Written Warning",
+    "Race": "Native American",
+    "Count": 4
+  },
+  {
+    "Year": 2023,
+    "Outcome": "Written Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 1
+  },
+  {
+    "Year": 2005,
+    "Outcome": "Citation",
+    "Race": "White",
+    "Count": 1292
+  },
+  {
+    "Year": 2005,
+    "Outcome": "Citation",
+    "Race": "Black",
+    "Count": 718
+  },
+  {
+    "Year": 2005,
+    "Outcome": "Citation",
+    "Race": "Hispanic",
+    "Count": 79
+  },
+  {
+    "Year": 2005,
+    "Outcome": "Citation",
+    "Race": "Asian",
+    "Count": 7
+  },
+  {
+    "Year": 2005,
+    "Outcome": "Citation",
+    "Race": "Native American",
+    "Count": 2
+  },
+  {
+    "Year": 2005,
+    "Outcome": "Citation",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2017,
+    "Outcome": "Verbal Warning",
+    "Race": "White",
+    "Count": 1020
+  },
+  {
+    "Year": 2017,
+    "Outcome": "Verbal Warning",
+    "Race": "Black",
+    "Count": 823
+  },
+  {
+    "Year": 2017,
+    "Outcome": "Verbal Warning",
+    "Race": "Hispanic",
+    "Count": 54
+  },
+  {
+    "Year": 2017,
+    "Outcome": "Verbal Warning",
+    "Race": "Asian",
+    "Count": 6
+  },
+  {
+    "Year": 2017,
+    "Outcome": "Verbal Warning",
+    "Race": "Native American",
+    "Count": 1
+  },
+  {
+    "Year": 2017,
+    "Outcome": "Verbal Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 3
+  },
+  {
+    "Year": 2008,
+    "Outcome": "Citation",
+    "Race": "White",
+    "Count": 1142
+  },
+  {
+    "Year": 2008,
+    "Outcome": "Citation",
+    "Race": "Black",
+    "Count": 621
+  },
+  {
+    "Year": 2008,
+    "Outcome": "Citation",
+    "Race": "Hispanic",
+    "Count": 93
+  },
+  {
+    "Year": 2008,
+    "Outcome": "Citation",
+    "Race": "Asian",
+    "Count": 7
+  },
+  {
+    "Year": 2008,
+    "Outcome": "Citation",
+    "Race": "Native American",
+    "Count": 4
+  },
+  {
+    "Year": 2008,
+    "Outcome": "Citation",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2010,
+    "Outcome": "Citation",
+    "Race": "White",
+    "Count": 1039
+  },
+  {
+    "Year": 2010,
+    "Outcome": "Citation",
+    "Race": "Black",
+    "Count": 645
+  },
+  {
+    "Year": 2010,
+    "Outcome": "Citation",
+    "Race": "Hispanic",
+    "Count": 66
+  },
+  {
+    "Year": 2010,
+    "Outcome": "Citation",
+    "Race": "Asian",
+    "Count": 2
+  },
+  {
+    "Year": 2010,
+    "Outcome": "Citation",
+    "Race": "Native American",
+    "Count": 0
+  },
+  {
+    "Year": 2010,
+    "Outcome": "Citation",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2006,
+    "Outcome": "Citation",
+    "Race": "White",
+    "Count": 1037
+  },
+  {
+    "Year": 2006,
+    "Outcome": "Citation",
+    "Race": "Black",
+    "Count": 632
+  },
+  {
+    "Year": 2006,
+    "Outcome": "Citation",
+    "Race": "Hispanic",
+    "Count": 73
+  },
+  {
+    "Year": 2006,
+    "Outcome": "Citation",
+    "Race": "Asian",
+    "Count": 6
+  },
+  {
+    "Year": 2006,
+    "Outcome": "Citation",
+    "Race": "Native American",
+    "Count": 2
+  },
+  {
+    "Year": 2006,
+    "Outcome": "Citation",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2007,
+    "Outcome": "Citation",
+    "Race": "White",
+    "Count": 1027
+  },
+  {
+    "Year": 2007,
+    "Outcome": "Citation",
+    "Race": "Black",
+    "Count": 620
+  },
+  {
+    "Year": 2007,
+    "Outcome": "Citation",
+    "Race": "Hispanic",
+    "Count": 62
+  },
+  {
+    "Year": 2007,
+    "Outcome": "Citation",
+    "Race": "Asian",
+    "Count": 6
+  },
+  {
+    "Year": 2007,
+    "Outcome": "Citation",
+    "Race": "Native American",
+    "Count": 2
+  },
+  {
+    "Year": 2007,
+    "Outcome": "Citation",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2016,
+    "Outcome": "Verbal Warning",
+    "Race": "White",
+    "Count": 821
+  },
+  {
+    "Year": 2016,
+    "Outcome": "Verbal Warning",
+    "Race": "Black",
+    "Count": 742
+  },
+  {
+    "Year": 2016,
+    "Outcome": "Verbal Warning",
+    "Race": "Hispanic",
+    "Count": 41
+  },
+  {
+    "Year": 2016,
+    "Outcome": "Verbal Warning",
+    "Race": "Asian",
+    "Count": 3
+  },
+  {
+    "Year": 2016,
+    "Outcome": "Verbal Warning",
+    "Race": "Native American",
+    "Count": 3
+  },
+  {
+    "Year": 2016,
+    "Outcome": "Verbal Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 2
+  },
+  {
+    "Year": 2011,
+    "Outcome": "Citation",
+    "Race": "White",
+    "Count": 929
+  },
+  {
+    "Year": 2011,
+    "Outcome": "Citation",
+    "Race": "Black",
+    "Count": 499
+  },
+  {
+    "Year": 2011,
+    "Outcome": "Citation",
+    "Race": "Hispanic",
+    "Count": 54
+  },
+  {
+    "Year": 2011,
+    "Outcome": "Citation",
+    "Race": "Asian",
+    "Count": 6
+  },
+  {
+    "Year": 2011,
+    "Outcome": "Citation",
+    "Race": "Native American",
+    "Count": 0
+  },
+  {
+    "Year": 2011,
+    "Outcome": "Citation",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2012,
+    "Outcome": "Citation",
+    "Race": "White",
+    "Count": 763
+  },
+  {
+    "Year": 2012,
+    "Outcome": "Citation",
+    "Race": "Black",
+    "Count": 533
+  },
+  {
+    "Year": 2012,
+    "Outcome": "Citation",
+    "Race": "Hispanic",
+    "Count": 43
+  },
+  {
+    "Year": 2012,
+    "Outcome": "Citation",
+    "Race": "Asian",
+    "Count": 7
+  },
+  {
+    "Year": 2012,
+    "Outcome": "Citation",
+    "Race": "Native American",
+    "Count": 1
+  },
+  {
+    "Year": 2012,
+    "Outcome": "Citation",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 3
+  },
+  {
+    "Year": 2016,
+    "Outcome": "Citation",
+    "Race": "White",
+    "Count": 673
+  },
+  {
+    "Year": 2016,
+    "Outcome": "Citation",
+    "Race": "Black",
+    "Count": 609
+  },
+  {
+    "Year": 2016,
+    "Outcome": "Citation",
+    "Race": "Hispanic",
+    "Count": 36
+  },
+  {
+    "Year": 2016,
+    "Outcome": "Citation",
+    "Race": "Asian",
+    "Count": 3
+  },
+  {
+    "Year": 2016,
+    "Outcome": "Citation",
+    "Race": "Native American",
+    "Count": 0
+  },
+  {
+    "Year": 2016,
+    "Outcome": "Citation",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 2
+  },
+  {
+    "Year": 2021,
+    "Outcome": "Citation",
+    "Race": "White",
+    "Count": 424
+  },
+  {
+    "Year": 2021,
+    "Outcome": "Citation",
+    "Race": "Black",
+    "Count": 770
+  },
+  {
+    "Year": 2021,
+    "Outcome": "Citation",
+    "Race": "Hispanic",
+    "Count": 21
+  },
+  {
+    "Year": 2021,
+    "Outcome": "Citation",
+    "Race": "Asian",
+    "Count": 2
+  },
+  {
+    "Year": 2021,
+    "Outcome": "Citation",
+    "Race": "Native American",
+    "Count": 0
+  },
+  {
+    "Year": 2021,
+    "Outcome": "Citation",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 1
+  },
+  {
+    "Year": 2015,
+    "Outcome": "Citation",
+    "Race": "White",
+    "Count": 750
+  },
+  {
+    "Year": 2015,
+    "Outcome": "Citation",
+    "Race": "Black",
+    "Count": 409
+  },
+  {
+    "Year": 2015,
+    "Outcome": "Citation",
+    "Race": "Hispanic",
+    "Count": 41
+  },
+  {
+    "Year": 2015,
+    "Outcome": "Citation",
+    "Race": "Asian",
+    "Count": 3
+  },
+  {
+    "Year": 2015,
+    "Outcome": "Citation",
+    "Race": "Native American",
+    "Count": 0
+  },
+  {
+    "Year": 2015,
+    "Outcome": "Citation",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 2
+  },
+  {
+    "Year": 2020,
+    "Outcome": "Citation",
+    "Race": "White",
+    "Count": 442
+  },
+  {
+    "Year": 2020,
+    "Outcome": "Citation",
+    "Race": "Black",
+    "Count": 712
+  },
+  {
+    "Year": 2020,
+    "Outcome": "Citation",
+    "Race": "Hispanic",
+    "Count": 35
+  },
+  {
+    "Year": 2020,
+    "Outcome": "Citation",
+    "Race": "Asian",
+    "Count": 2
+  },
+  {
+    "Year": 2020,
+    "Outcome": "Citation",
+    "Race": "Native American",
+    "Count": 2
+  },
+  {
+    "Year": 2020,
+    "Outcome": "Citation",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2019,
+    "Outcome": "Citation",
+    "Race": "White",
+    "Count": 474
+  },
+  {
+    "Year": 2019,
+    "Outcome": "Citation",
+    "Race": "Black",
+    "Count": 589
+  },
+  {
+    "Year": 2019,
+    "Outcome": "Citation",
+    "Race": "Hispanic",
+    "Count": 35
+  },
+  {
+    "Year": 2019,
+    "Outcome": "Citation",
+    "Race": "Asian",
+    "Count": 4
+  },
+  {
+    "Year": 2019,
+    "Outcome": "Citation",
+    "Race": "Native American",
+    "Count": 1
+  },
+  {
+    "Year": 2019,
+    "Outcome": "Citation",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 1
+  },
+  {
+    "Year": 2023,
+    "Outcome": "Citation",
+    "Race": "White",
+    "Count": 456
+  },
+  {
+    "Year": 2023,
+    "Outcome": "Citation",
+    "Race": "Black",
+    "Count": 597
+  },
+  {
+    "Year": 2023,
+    "Outcome": "Citation",
+    "Race": "Hispanic",
+    "Count": 31
+  },
+  {
+    "Year": 2023,
+    "Outcome": "Citation",
+    "Race": "Asian",
+    "Count": 4
+  },
+  {
+    "Year": 2023,
+    "Outcome": "Citation",
+    "Race": "Native American",
+    "Count": 1
+  },
+  {
+    "Year": 2023,
+    "Outcome": "Citation",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 2
+  },
+  {
+    "Year": 2018,
+    "Outcome": "Verbal Warning",
+    "Race": "White",
+    "Count": 599
+  },
+  {
+    "Year": 2018,
+    "Outcome": "Verbal Warning",
+    "Race": "Black",
+    "Count": 437
+  },
+  {
+    "Year": 2018,
+    "Outcome": "Verbal Warning",
+    "Race": "Hispanic",
+    "Count": 42
+  },
+  {
+    "Year": 2018,
+    "Outcome": "Verbal Warning",
+    "Race": "Asian",
+    "Count": 3
+  },
+  {
+    "Year": 2018,
+    "Outcome": "Verbal Warning",
+    "Race": "Native American",
+    "Count": 1
+  },
+  {
+    "Year": 2018,
+    "Outcome": "Verbal Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2022,
+    "Outcome": "Citation",
+    "Race": "White",
+    "Count": 381
+  },
+  {
+    "Year": 2022,
+    "Outcome": "Citation",
+    "Race": "Black",
+    "Count": 604
+  },
+  {
+    "Year": 2022,
+    "Outcome": "Citation",
+    "Race": "Hispanic",
+    "Count": 31
+  },
+  {
+    "Year": 2022,
+    "Outcome": "Citation",
+    "Race": "Asian",
+    "Count": 2
+  },
+  {
+    "Year": 2022,
+    "Outcome": "Citation",
+    "Race": "Native American",
+    "Count": 1
+  },
+  {
+    "Year": 2022,
+    "Outcome": "Citation",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2024,
+    "Outcome": "Written Warning",
+    "Race": "White",
+    "Count": 373
+  },
+  {
+    "Year": 2024,
+    "Outcome": "Written Warning",
+    "Race": "Black",
+    "Count": 547
+  },
+  {
+    "Year": 2024,
+    "Outcome": "Written Warning",
+    "Race": "Hispanic",
+    "Count": 23
+  },
+  {
+    "Year": 2024,
+    "Outcome": "Written Warning",
+    "Race": "Asian",
+    "Count": 1
+  },
+  {
+    "Year": 2024,
+    "Outcome": "Written Warning",
+    "Race": "Native American",
+    "Count": 1
+  },
+  {
+    "Year": 2024,
+    "Outcome": "Written Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2024,
+    "Outcome": "Citation",
+    "Race": "White",
+    "Count": 344
+  },
+  {
+    "Year": 2024,
+    "Outcome": "Citation",
+    "Race": "Black",
+    "Count": 533
+  },
+  {
+    "Year": 2024,
+    "Outcome": "Citation",
+    "Race": "Hispanic",
+    "Count": 29
+  },
+  {
+    "Year": 2024,
+    "Outcome": "Citation",
+    "Race": "Asian",
+    "Count": 0
+  },
+  {
+    "Year": 2024,
+    "Outcome": "Citation",
+    "Race": "Native American",
+    "Count": 0
+  },
+  {
+    "Year": 2024,
+    "Outcome": "Citation",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 1
+  },
+  {
+    "Year": 2013,
+    "Outcome": "Citation",
+    "Race": "White",
+    "Count": 506
+  },
+  {
+    "Year": 2013,
+    "Outcome": "Citation",
+    "Race": "Black",
+    "Count": 344
+  },
+  {
+    "Year": 2013,
+    "Outcome": "Citation",
+    "Race": "Hispanic",
+    "Count": 29
+  },
+  {
+    "Year": 2013,
+    "Outcome": "Citation",
+    "Race": "Asian",
+    "Count": 3
+  },
+  {
+    "Year": 2013,
+    "Outcome": "Citation",
+    "Race": "Native American",
+    "Count": 0
+  },
+  {
+    "Year": 2013,
+    "Outcome": "Citation",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2017,
+    "Outcome": "Citation",
+    "Race": "White",
+    "Count": 415
+  },
+  {
+    "Year": 2017,
+    "Outcome": "Citation",
+    "Race": "Black",
+    "Count": 402
+  },
+  {
+    "Year": 2017,
+    "Outcome": "Citation",
+    "Race": "Hispanic",
+    "Count": 29
+  },
+  {
+    "Year": 2017,
+    "Outcome": "Citation",
+    "Race": "Asian",
+    "Count": 1
+  },
+  {
+    "Year": 2017,
+    "Outcome": "Citation",
+    "Race": "Native American",
+    "Count": 0
+  },
+  {
+    "Year": 2017,
+    "Outcome": "Citation",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 1
+  },
+  {
+    "Year": 2018,
+    "Outcome": "Citation",
+    "Race": "White",
+    "Count": 355
+  },
+  {
+    "Year": 2018,
+    "Outcome": "Citation",
+    "Race": "Black",
+    "Count": 409
+  },
+  {
+    "Year": 2018,
+    "Outcome": "Citation",
+    "Race": "Hispanic",
+    "Count": 18
+  },
+  {
+    "Year": 2018,
+    "Outcome": "Citation",
+    "Race": "Asian",
+    "Count": 3
+  },
+  {
+    "Year": 2018,
+    "Outcome": "Citation",
+    "Race": "Native American",
+    "Count": 1
+  },
+  {
+    "Year": 2018,
+    "Outcome": "Citation",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 1
+  },
+  {
+    "Year": 2014,
+    "Outcome": "Citation",
+    "Race": "White",
+    "Count": 411
+  },
+  {
+    "Year": 2014,
+    "Outcome": "Citation",
+    "Race": "Black",
+    "Count": 242
+  },
+  {
+    "Year": 2014,
+    "Outcome": "Citation",
+    "Race": "Hispanic",
+    "Count": 19
+  },
+  {
+    "Year": 2014,
+    "Outcome": "Citation",
+    "Race": "Asian",
+    "Count": 2
+  },
+  {
+    "Year": 2014,
+    "Outcome": "Citation",
+    "Race": "Native American",
+    "Count": 1
+  },
+  {
+    "Year": 2014,
+    "Outcome": "Citation",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2009,
+    "Outcome": "Verbal Warning",
+    "Race": "White",
+    "Count": 308
+  },
+  {
+    "Year": 2009,
+    "Outcome": "Verbal Warning",
+    "Race": "Black",
+    "Count": 264
+  },
+  {
+    "Year": 2009,
+    "Outcome": "Verbal Warning",
+    "Race": "Hispanic",
+    "Count": 13
+  },
+  {
+    "Year": 2009,
+    "Outcome": "Verbal Warning",
+    "Race": "Asian",
+    "Count": 4
+  },
+  {
+    "Year": 2009,
+    "Outcome": "Verbal Warning",
+    "Race": "Native American",
+    "Count": 0
+  },
+  {
+    "Year": 2009,
+    "Outcome": "Verbal Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2004,
+    "Outcome": "Verbal Warning",
+    "Race": "White",
+    "Count": 309
+  },
+  {
+    "Year": 2004,
+    "Outcome": "Verbal Warning",
+    "Race": "Black",
+    "Count": 227
+  },
+  {
+    "Year": 2004,
+    "Outcome": "Verbal Warning",
+    "Race": "Hispanic",
+    "Count": 19
+  },
+  {
+    "Year": 2004,
+    "Outcome": "Verbal Warning",
+    "Race": "Asian",
+    "Count": 3
+  },
+  {
+    "Year": 2004,
+    "Outcome": "Verbal Warning",
+    "Race": "Native American",
+    "Count": 0
+  },
+  {
+    "Year": 2004,
+    "Outcome": "Verbal Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2005,
+    "Outcome": "Verbal Warning",
+    "Race": "White",
+    "Count": 294
+  },
+  {
+    "Year": 2005,
+    "Outcome": "Verbal Warning",
+    "Race": "Black",
+    "Count": 210
+  },
+  {
+    "Year": 2005,
+    "Outcome": "Verbal Warning",
+    "Race": "Hispanic",
+    "Count": 19
+  },
+  {
+    "Year": 2005,
+    "Outcome": "Verbal Warning",
+    "Race": "Asian",
+    "Count": 2
+  },
+  {
+    "Year": 2005,
+    "Outcome": "Verbal Warning",
+    "Race": "Native American",
+    "Count": 0
+  },
+  {
+    "Year": 2005,
+    "Outcome": "Verbal Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2021,
+    "Outcome": "Written Warning",
+    "Race": "White",
+    "Count": 212
+  },
+  {
+    "Year": 2021,
+    "Outcome": "Written Warning",
+    "Race": "Black",
+    "Count": 286
+  },
+  {
+    "Year": 2021,
+    "Outcome": "Written Warning",
+    "Race": "Hispanic",
+    "Count": 15
+  },
+  {
+    "Year": 2021,
+    "Outcome": "Written Warning",
+    "Race": "Asian",
+    "Count": 3
+  },
+  {
+    "Year": 2021,
+    "Outcome": "Written Warning",
+    "Race": "Native American",
+    "Count": 1
+  },
+  {
+    "Year": 2021,
+    "Outcome": "Written Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2022,
+    "Outcome": "Written Warning",
+    "Race": "White",
+    "Count": 231
+  },
+  {
+    "Year": 2022,
+    "Outcome": "Written Warning",
+    "Race": "Black",
+    "Count": 253
+  },
+  {
+    "Year": 2022,
+    "Outcome": "Written Warning",
+    "Race": "Hispanic",
+    "Count": 20
+  },
+  {
+    "Year": 2022,
+    "Outcome": "Written Warning",
+    "Race": "Asian",
+    "Count": 3
+  },
+  {
+    "Year": 2022,
+    "Outcome": "Written Warning",
+    "Race": "Native American",
+    "Count": 0
+  },
+  {
+    "Year": 2022,
+    "Outcome": "Written Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2019,
+    "Outcome": "Written Warning",
+    "Race": "White",
+    "Count": 272
+  },
+  {
+    "Year": 2019,
+    "Outcome": "Written Warning",
+    "Race": "Black",
+    "Count": 210
+  },
+  {
+    "Year": 2019,
+    "Outcome": "Written Warning",
+    "Race": "Hispanic",
+    "Count": 10
+  },
+  {
+    "Year": 2019,
+    "Outcome": "Written Warning",
+    "Race": "Asian",
+    "Count": 2
+  },
+  {
+    "Year": 2019,
+    "Outcome": "Written Warning",
+    "Race": "Native American",
+    "Count": 3
+  },
+  {
+    "Year": 2019,
+    "Outcome": "Written Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 2
+  },
+  {
+    "Year": 2010,
+    "Outcome": "Verbal Warning",
+    "Race": "White",
+    "Count": 288
+  },
+  {
+    "Year": 2010,
+    "Outcome": "Verbal Warning",
+    "Race": "Black",
+    "Count": 194
+  },
+  {
+    "Year": 2010,
+    "Outcome": "Verbal Warning",
+    "Race": "Hispanic",
+    "Count": 13
+  },
+  {
+    "Year": 2010,
+    "Outcome": "Verbal Warning",
+    "Race": "Asian",
+    "Count": 1
+  },
+  {
+    "Year": 2010,
+    "Outcome": "Verbal Warning",
+    "Race": "Native American",
+    "Count": 0
+  },
+  {
+    "Year": 2010,
+    "Outcome": "Verbal Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2004,
+    "Outcome": "Written Warning",
+    "Race": "White",
+    "Count": 310
+  },
+  {
+    "Year": 2004,
+    "Outcome": "Written Warning",
+    "Race": "Black",
+    "Count": 136
+  },
+  {
+    "Year": 2004,
+    "Outcome": "Written Warning",
+    "Race": "Hispanic",
+    "Count": 13
+  },
+  {
+    "Year": 2004,
+    "Outcome": "Written Warning",
+    "Race": "Asian",
+    "Count": 2
+  },
+  {
+    "Year": 2004,
+    "Outcome": "Written Warning",
+    "Race": "Native American",
+    "Count": 0
+  },
+  {
+    "Year": 2004,
+    "Outcome": "Written Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2006,
+    "Outcome": "Verbal Warning",
+    "Race": "White",
+    "Count": 271
+  },
+  {
+    "Year": 2006,
+    "Outcome": "Verbal Warning",
+    "Race": "Black",
+    "Count": 158
+  },
+  {
+    "Year": 2006,
+    "Outcome": "Verbal Warning",
+    "Race": "Hispanic",
+    "Count": 11
+  },
+  {
+    "Year": 2006,
+    "Outcome": "Verbal Warning",
+    "Race": "Asian",
+    "Count": 4
+  },
+  {
+    "Year": 2006,
+    "Outcome": "Verbal Warning",
+    "Race": "Native American",
+    "Count": 0
+  },
+  {
+    "Year": 2006,
+    "Outcome": "Verbal Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2023,
+    "Outcome": "Verbal Warning",
+    "Race": "White",
+    "Count": 160
+  },
+  {
+    "Year": 2023,
+    "Outcome": "Verbal Warning",
+    "Race": "Black",
+    "Count": 264
+  },
+  {
+    "Year": 2023,
+    "Outcome": "Verbal Warning",
+    "Race": "Hispanic",
+    "Count": 14
+  },
+  {
+    "Year": 2023,
+    "Outcome": "Verbal Warning",
+    "Race": "Asian",
+    "Count": 0
+  },
+  {
+    "Year": 2023,
+    "Outcome": "Verbal Warning",
+    "Race": "Native American",
+    "Count": 1
+  },
+  {
+    "Year": 2023,
+    "Outcome": "Verbal Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2007,
+    "Outcome": "Verbal Warning",
+    "Race": "White",
+    "Count": 244
+  },
+  {
+    "Year": 2007,
+    "Outcome": "Verbal Warning",
+    "Race": "Black",
+    "Count": 180
+  },
+  {
+    "Year": 2007,
+    "Outcome": "Verbal Warning",
+    "Race": "Hispanic",
+    "Count": 11
+  },
+  {
+    "Year": 2007,
+    "Outcome": "Verbal Warning",
+    "Race": "Asian",
+    "Count": 1
+  },
+  {
+    "Year": 2007,
+    "Outcome": "Verbal Warning",
+    "Race": "Native American",
+    "Count": 0
+  },
+  {
+    "Year": 2007,
+    "Outcome": "Verbal Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2020,
+    "Outcome": "Written Warning",
+    "Race": "White",
+    "Count": 197
+  },
+  {
+    "Year": 2020,
+    "Outcome": "Written Warning",
+    "Race": "Black",
+    "Count": 210
+  },
+  {
+    "Year": 2020,
+    "Outcome": "Written Warning",
+    "Race": "Hispanic",
+    "Count": 7
+  },
+  {
+    "Year": 2020,
+    "Outcome": "Written Warning",
+    "Race": "Asian",
+    "Count": 1
+  },
+  {
+    "Year": 2020,
+    "Outcome": "Written Warning",
+    "Race": "Native American",
+    "Count": 0
+  },
+  {
+    "Year": 2020,
+    "Outcome": "Written Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 1
+  },
+  {
+    "Year": 2012,
+    "Outcome": "Verbal Warning",
+    "Race": "White",
+    "Count": 208
+  },
+  {
+    "Year": 2012,
+    "Outcome": "Verbal Warning",
+    "Race": "Black",
+    "Count": 156
+  },
+  {
+    "Year": 2012,
+    "Outcome": "Verbal Warning",
+    "Race": "Hispanic",
+    "Count": 10
+  },
+  {
+    "Year": 2012,
+    "Outcome": "Verbal Warning",
+    "Race": "Asian",
+    "Count": 0
+  },
+  {
+    "Year": 2012,
+    "Outcome": "Verbal Warning",
+    "Race": "Native American",
+    "Count": 0
+  },
+  {
+    "Year": 2012,
+    "Outcome": "Verbal Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2015,
+    "Outcome": "Verbal Warning",
+    "Race": "White",
+    "Count": 169
+  },
+  {
+    "Year": 2015,
+    "Outcome": "Verbal Warning",
+    "Race": "Black",
+    "Count": 172
+  },
+  {
+    "Year": 2015,
+    "Outcome": "Verbal Warning",
+    "Race": "Hispanic",
+    "Count": 19
+  },
+  {
+    "Year": 2015,
+    "Outcome": "Verbal Warning",
+    "Race": "Asian",
+    "Count": 0
+  },
+  {
+    "Year": 2015,
+    "Outcome": "Verbal Warning",
+    "Race": "Native American",
+    "Count": 0
+  },
+  {
+    "Year": 2015,
+    "Outcome": "Verbal Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2018,
+    "Outcome": "Written Warning",
+    "Race": "White",
+    "Count": 200
+  },
+  {
+    "Year": 2018,
+    "Outcome": "Written Warning",
+    "Race": "Black",
+    "Count": 111
+  },
+  {
+    "Year": 2018,
+    "Outcome": "Written Warning",
+    "Race": "Hispanic",
+    "Count": 7
+  },
+  {
+    "Year": 2018,
+    "Outcome": "Written Warning",
+    "Race": "Asian",
+    "Count": 0
+  },
+  {
+    "Year": 2018,
+    "Outcome": "Written Warning",
+    "Race": "Native American",
+    "Count": 0
+  },
+  {
+    "Year": 2018,
+    "Outcome": "Written Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 1
+  },
+  {
+    "Year": 2008,
+    "Outcome": "Verbal Warning",
+    "Race": "White",
+    "Count": 160
+  },
+  {
+    "Year": 2008,
+    "Outcome": "Verbal Warning",
+    "Race": "Black",
+    "Count": 115
+  },
+  {
+    "Year": 2008,
+    "Outcome": "Verbal Warning",
+    "Race": "Hispanic",
+    "Count": 13
+  },
+  {
+    "Year": 2008,
+    "Outcome": "Verbal Warning",
+    "Race": "Asian",
+    "Count": 2
+  },
+  {
+    "Year": 2008,
+    "Outcome": "Verbal Warning",
+    "Race": "Native American",
+    "Count": 0
+  },
+  {
+    "Year": 2008,
+    "Outcome": "Verbal Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2011,
+    "Outcome": "Verbal Warning",
+    "Race": "White",
+    "Count": 159
+  },
+  {
+    "Year": 2011,
+    "Outcome": "Verbal Warning",
+    "Race": "Black",
+    "Count": 94
+  },
+  {
+    "Year": 2011,
+    "Outcome": "Verbal Warning",
+    "Race": "Hispanic",
+    "Count": 13
+  },
+  {
+    "Year": 2011,
+    "Outcome": "Verbal Warning",
+    "Race": "Asian",
+    "Count": 3
+  },
+  {
+    "Year": 2011,
+    "Outcome": "Verbal Warning",
+    "Race": "Native American",
+    "Count": 0
+  },
+  {
+    "Year": 2011,
+    "Outcome": "Verbal Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2008,
+    "Outcome": "Written Warning",
+    "Race": "White",
+    "Count": 157
+  },
+  {
+    "Year": 2008,
+    "Outcome": "Written Warning",
+    "Race": "Black",
+    "Count": 54
+  },
+  {
+    "Year": 2008,
+    "Outcome": "Written Warning",
+    "Race": "Hispanic",
+    "Count": 6
+  },
+  {
+    "Year": 2008,
+    "Outcome": "Written Warning",
+    "Race": "Asian",
+    "Count": 0
+  },
+  {
+    "Year": 2008,
+    "Outcome": "Written Warning",
+    "Race": "Native American",
+    "Count": 0
+  },
+  {
+    "Year": 2008,
+    "Outcome": "Written Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2017,
+    "Outcome": "Written Warning",
+    "Race": "White",
+    "Count": 130
+  },
+  {
+    "Year": 2017,
+    "Outcome": "Written Warning",
+    "Race": "Black",
+    "Count": 56
+  },
+  {
+    "Year": 2017,
+    "Outcome": "Written Warning",
+    "Race": "Hispanic",
+    "Count": 4
+  },
+  {
+    "Year": 2017,
+    "Outcome": "Written Warning",
+    "Race": "Asian",
+    "Count": 2
+  },
+  {
+    "Year": 2017,
+    "Outcome": "Written Warning",
+    "Race": "Native American",
+    "Count": 0
+  },
+  {
+    "Year": 2017,
+    "Outcome": "Written Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2013,
+    "Outcome": "Verbal Warning",
+    "Race": "White",
+    "Count": 85
+  },
+  {
+    "Year": 2013,
+    "Outcome": "Verbal Warning",
+    "Race": "Black",
+    "Count": 80
+  },
+  {
+    "Year": 2013,
+    "Outcome": "Verbal Warning",
+    "Race": "Hispanic",
+    "Count": 2
+  },
+  {
+    "Year": 2013,
+    "Outcome": "Verbal Warning",
+    "Race": "Asian",
+    "Count": 1
+  },
+  {
+    "Year": 2013,
+    "Outcome": "Verbal Warning",
+    "Race": "Native American",
+    "Count": 1
+  },
+  {
+    "Year": 2013,
+    "Outcome": "Verbal Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2005,
+    "Outcome": "Written Warning",
+    "Race": "White",
+    "Count": 113
+  },
+  {
+    "Year": 2005,
+    "Outcome": "Written Warning",
+    "Race": "Black",
+    "Count": 48
+  },
+  {
+    "Year": 2005,
+    "Outcome": "Written Warning",
+    "Race": "Hispanic",
+    "Count": 3
+  },
+  {
+    "Year": 2005,
+    "Outcome": "Written Warning",
+    "Race": "Asian",
+    "Count": 1
+  },
+  {
+    "Year": 2005,
+    "Outcome": "Written Warning",
+    "Race": "Native American",
+    "Count": 1
+  },
+  {
+    "Year": 2005,
+    "Outcome": "Written Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2009,
+    "Outcome": "Written Warning",
+    "Race": "White",
+    "Count": 74
+  },
+  {
+    "Year": 2009,
+    "Outcome": "Written Warning",
+    "Race": "Black",
+    "Count": 30
+  },
+  {
+    "Year": 2009,
+    "Outcome": "Written Warning",
+    "Race": "Hispanic",
+    "Count": 2
+  },
+  {
+    "Year": 2009,
+    "Outcome": "Written Warning",
+    "Race": "Asian",
+    "Count": 3
+  },
+  {
+    "Year": 2009,
+    "Outcome": "Written Warning",
+    "Race": "Native American",
+    "Count": 1
+  },
+  {
+    "Year": 2009,
+    "Outcome": "Written Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2006,
+    "Outcome": "Written Warning",
+    "Race": "White",
+    "Count": 61
+  },
+  {
+    "Year": 2006,
+    "Outcome": "Written Warning",
+    "Race": "Black",
+    "Count": 32
+  },
+  {
+    "Year": 2006,
+    "Outcome": "Written Warning",
+    "Race": "Hispanic",
+    "Count": 5
+  },
+  {
+    "Year": 2006,
+    "Outcome": "Written Warning",
+    "Race": "Asian",
+    "Count": 1
+  },
+  {
+    "Year": 2006,
+    "Outcome": "Written Warning",
+    "Race": "Native American",
+    "Count": 0
+  },
+  {
+    "Year": 2006,
+    "Outcome": "Written Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2016,
+    "Outcome": "Written Warning",
+    "Race": "White",
+    "Count": 50
+  },
+  {
+    "Year": 2016,
+    "Outcome": "Written Warning",
+    "Race": "Black",
+    "Count": 39
+  },
+  {
+    "Year": 2016,
+    "Outcome": "Written Warning",
+    "Race": "Hispanic",
+    "Count": 6
+  },
+  {
+    "Year": 2016,
+    "Outcome": "Written Warning",
+    "Race": "Asian",
+    "Count": 1
+  },
+  {
+    "Year": 2016,
+    "Outcome": "Written Warning",
+    "Race": "Native American",
+    "Count": 0
+  },
+  {
+    "Year": 2016,
+    "Outcome": "Written Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2007,
+    "Outcome": "Written Warning",
+    "Race": "White",
+    "Count": 65
+  },
+  {
+    "Year": 2007,
+    "Outcome": "Written Warning",
+    "Race": "Black",
+    "Count": 20
+  },
+  {
+    "Year": 2007,
+    "Outcome": "Written Warning",
+    "Race": "Hispanic",
+    "Count": 5
+  },
+  {
+    "Year": 2007,
+    "Outcome": "Written Warning",
+    "Race": "Asian",
+    "Count": 1
+  },
+  {
+    "Year": 2007,
+    "Outcome": "Written Warning",
+    "Race": "Native American",
+    "Count": 1
+  },
+  {
+    "Year": 2007,
+    "Outcome": "Written Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2014,
+    "Outcome": "Verbal Warning",
+    "Race": "White",
+    "Count": 46
+  },
+  {
+    "Year": 2014,
+    "Outcome": "Verbal Warning",
+    "Race": "Black",
+    "Count": 38
+  },
+  {
+    "Year": 2014,
+    "Outcome": "Verbal Warning",
+    "Race": "Hispanic",
+    "Count": 0
+  },
+  {
+    "Year": 2014,
+    "Outcome": "Verbal Warning",
+    "Race": "Asian",
+    "Count": 0
+  },
+  {
+    "Year": 2014,
+    "Outcome": "Verbal Warning",
+    "Race": "Native American",
+    "Count": 0
+  },
+  {
+    "Year": 2014,
+    "Outcome": "Verbal Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2010,
+    "Outcome": "Written Warning",
+    "Race": "White",
+    "Count": 46
+  },
+  {
+    "Year": 2010,
+    "Outcome": "Written Warning",
+    "Race": "Black",
+    "Count": 26
+  },
+  {
+    "Year": 2010,
+    "Outcome": "Written Warning",
+    "Race": "Hispanic",
+    "Count": 0
+  },
+  {
+    "Year": 2010,
+    "Outcome": "Written Warning",
+    "Race": "Asian",
+    "Count": 0
+  },
+  {
+    "Year": 2010,
+    "Outcome": "Written Warning",
+    "Race": "Native American",
+    "Count": 0
+  },
+  {
+    "Year": 2010,
+    "Outcome": "Written Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2011,
+    "Outcome": "Written Warning",
+    "Race": "White",
+    "Count": 42
+  },
+  {
+    "Year": 2011,
+    "Outcome": "Written Warning",
+    "Race": "Black",
+    "Count": 16
+  },
+  {
+    "Year": 2011,
+    "Outcome": "Written Warning",
+    "Race": "Hispanic",
+    "Count": 0
+  },
+  {
+    "Year": 2011,
+    "Outcome": "Written Warning",
+    "Race": "Asian",
+    "Count": 0
+  },
+  {
+    "Year": 2011,
+    "Outcome": "Written Warning",
+    "Race": "Native American",
+    "Count": 0
+  },
+  {
+    "Year": 2011,
+    "Outcome": "Written Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2012,
+    "Outcome": "Written Warning",
+    "Race": "White",
+    "Count": 29
+  },
+  {
+    "Year": 2012,
+    "Outcome": "Written Warning",
+    "Race": "Black",
+    "Count": 25
+  },
+  {
+    "Year": 2012,
+    "Outcome": "Written Warning",
+    "Race": "Hispanic",
+    "Count": 3
+  },
+  {
+    "Year": 2012,
+    "Outcome": "Written Warning",
+    "Race": "Asian",
+    "Count": 0
+  },
+  {
+    "Year": 2012,
+    "Outcome": "Written Warning",
+    "Race": "Native American",
+    "Count": 0
+  },
+  {
+    "Year": 2012,
+    "Outcome": "Written Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2015,
+    "Outcome": "Written Warning",
+    "Race": "White",
+    "Count": 33
+  },
+  {
+    "Year": 2015,
+    "Outcome": "Written Warning",
+    "Race": "Black",
+    "Count": 21
+  },
+  {
+    "Year": 2015,
+    "Outcome": "Written Warning",
+    "Race": "Hispanic",
+    "Count": 0
+  },
+  {
+    "Year": 2015,
+    "Outcome": "Written Warning",
+    "Race": "Asian",
+    "Count": 0
+  },
+  {
+    "Year": 2015,
+    "Outcome": "Written Warning",
+    "Race": "Native American",
+    "Count": 0
+  },
+  {
+    "Year": 2015,
+    "Outcome": "Written Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 1
+  },
+  {
+    "Year": 2014,
+    "Outcome": "Written Warning",
+    "Race": "White",
+    "Count": 34
+  },
+  {
+    "Year": 2014,
+    "Outcome": "Written Warning",
+    "Race": "Black",
+    "Count": 13
+  },
+  {
+    "Year": 2014,
+    "Outcome": "Written Warning",
+    "Race": "Hispanic",
+    "Count": 1
+  },
+  {
+    "Year": 2014,
+    "Outcome": "Written Warning",
+    "Race": "Asian",
+    "Count": 0
+  },
+  {
+    "Year": 2014,
+    "Outcome": "Written Warning",
+    "Race": "Native American",
+    "Count": 1
+  },
+  {
+    "Year": 2014,
+    "Outcome": "Written Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2013,
+    "Outcome": "Written Warning",
+    "Race": "White",
+    "Count": 14
+  },
+  {
+    "Year": 2013,
+    "Outcome": "Written Warning",
+    "Race": "Black",
+    "Count": 9
+  },
+  {
+    "Year": 2013,
+    "Outcome": "Written Warning",
+    "Race": "Hispanic",
+    "Count": 1
+  },
+  {
+    "Year": 2013,
+    "Outcome": "Written Warning",
+    "Race": "Asian",
+    "Count": 0
+  },
+  {
+    "Year": 2013,
+    "Outcome": "Written Warning",
+    "Race": "Native American",
+    "Count": 0
+  },
+  {
+    "Year": 2013,
+    "Outcome": "Written Warning",
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  }
+]

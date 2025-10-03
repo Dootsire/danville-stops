@@ -1,0 +1,632 @@
+[
+  {
+    "Year": 2004,
+    "Race": "White",
+    "Count": 2388
+  },
+  {
+    "Year": 2004,
+    "Race": "Black",
+    "Count": 1432
+  },
+  {
+    "Year": 2004,
+    "Race": "Hispanic",
+    "Count": 149
+  },
+  {
+    "Year": 2004,
+    "Race": "Asian",
+    "Count": 17
+  },
+  {
+    "Year": 2004,
+    "Race": "Native American",
+    "Count": 1
+  },
+  {
+    "Year": 2004,
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2005,
+    "Race": "White",
+    "Count": 1699
+  },
+  {
+    "Year": 2005,
+    "Race": "Black",
+    "Count": 976
+  },
+  {
+    "Year": 2005,
+    "Race": "Hispanic",
+    "Count": 101
+  },
+  {
+    "Year": 2005,
+    "Race": "Asian",
+    "Count": 10
+  },
+  {
+    "Year": 2005,
+    "Race": "Native American",
+    "Count": 3
+  },
+  {
+    "Year": 2005,
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2006,
+    "Race": "White",
+    "Count": 1369
+  },
+  {
+    "Year": 2006,
+    "Race": "Black",
+    "Count": 822
+  },
+  {
+    "Year": 2006,
+    "Race": "Hispanic",
+    "Count": 89
+  },
+  {
+    "Year": 2006,
+    "Race": "Asian",
+    "Count": 11
+  },
+  {
+    "Year": 2006,
+    "Race": "Native American",
+    "Count": 2
+  },
+  {
+    "Year": 2006,
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2007,
+    "Race": "White",
+    "Count": 1336
+  },
+  {
+    "Year": 2007,
+    "Race": "Black",
+    "Count": 820
+  },
+  {
+    "Year": 2007,
+    "Race": "Hispanic",
+    "Count": 78
+  },
+  {
+    "Year": 2007,
+    "Race": "Asian",
+    "Count": 8
+  },
+  {
+    "Year": 2007,
+    "Race": "Native American",
+    "Count": 3
+  },
+  {
+    "Year": 2007,
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2008,
+    "Race": "White",
+    "Count": 1459
+  },
+  {
+    "Year": 2008,
+    "Race": "Black",
+    "Count": 790
+  },
+  {
+    "Year": 2008,
+    "Race": "Hispanic",
+    "Count": 112
+  },
+  {
+    "Year": 2008,
+    "Race": "Asian",
+    "Count": 9
+  },
+  {
+    "Year": 2008,
+    "Race": "Native American",
+    "Count": 4
+  },
+  {
+    "Year": 2008,
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2009,
+    "Race": "White",
+    "Count": 2187
+  },
+  {
+    "Year": 2009,
+    "Race": "Black",
+    "Count": 1307
+  },
+  {
+    "Year": 2009,
+    "Race": "Hispanic",
+    "Count": 114
+  },
+  {
+    "Year": 2009,
+    "Race": "Asian",
+    "Count": 21
+  },
+  {
+    "Year": 2009,
+    "Race": "Native American",
+    "Count": 3
+  },
+  {
+    "Year": 2009,
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2010,
+    "Race": "White",
+    "Count": 1373
+  },
+  {
+    "Year": 2010,
+    "Race": "Black",
+    "Count": 865
+  },
+  {
+    "Year": 2010,
+    "Race": "Hispanic",
+    "Count": 79
+  },
+  {
+    "Year": 2010,
+    "Race": "Asian",
+    "Count": 3
+  },
+  {
+    "Year": 2010,
+    "Race": "Native American",
+    "Count": 0
+  },
+  {
+    "Year": 2010,
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2011,
+    "Race": "White",
+    "Count": 1130
+  },
+  {
+    "Year": 2011,
+    "Race": "Black",
+    "Count": 609
+  },
+  {
+    "Year": 2011,
+    "Race": "Hispanic",
+    "Count": 67
+  },
+  {
+    "Year": 2011,
+    "Race": "Asian",
+    "Count": 9
+  },
+  {
+    "Year": 2011,
+    "Race": "Native American",
+    "Count": 0
+  },
+  {
+    "Year": 2011,
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2012,
+    "Race": "White",
+    "Count": 1000
+  },
+  {
+    "Year": 2012,
+    "Race": "Black",
+    "Count": 714
+  },
+  {
+    "Year": 2012,
+    "Race": "Hispanic",
+    "Count": 56
+  },
+  {
+    "Year": 2012,
+    "Race": "Asian",
+    "Count": 7
+  },
+  {
+    "Year": 2012,
+    "Race": "Native American",
+    "Count": 1
+  },
+  {
+    "Year": 2012,
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 3
+  },
+  {
+    "Year": 2013,
+    "Race": "White",
+    "Count": 605
+  },
+  {
+    "Year": 2013,
+    "Race": "Black",
+    "Count": 433
+  },
+  {
+    "Year": 2013,
+    "Race": "Hispanic",
+    "Count": 32
+  },
+  {
+    "Year": 2013,
+    "Race": "Asian",
+    "Count": 4
+  },
+  {
+    "Year": 2013,
+    "Race": "Native American",
+    "Count": 1
+  },
+  {
+    "Year": 2013,
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2014,
+    "Race": "White",
+    "Count": 491
+  },
+  {
+    "Year": 2014,
+    "Race": "Black",
+    "Count": 293
+  },
+  {
+    "Year": 2014,
+    "Race": "Hispanic",
+    "Count": 20
+  },
+  {
+    "Year": 2014,
+    "Race": "Asian",
+    "Count": 2
+  },
+  {
+    "Year": 2014,
+    "Race": "Native American",
+    "Count": 2
+  },
+  {
+    "Year": 2014,
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2015,
+    "Race": "White",
+    "Count": 952
+  },
+  {
+    "Year": 2015,
+    "Race": "Black",
+    "Count": 602
+  },
+  {
+    "Year": 2015,
+    "Race": "Hispanic",
+    "Count": 60
+  },
+  {
+    "Year": 2015,
+    "Race": "Asian",
+    "Count": 3
+  },
+  {
+    "Year": 2015,
+    "Race": "Native American",
+    "Count": 0
+  },
+  {
+    "Year": 2015,
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 3
+  },
+  {
+    "Year": 2016,
+    "Race": "White",
+    "Count": 1544
+  },
+  {
+    "Year": 2016,
+    "Race": "Black",
+    "Count": 1390
+  },
+  {
+    "Year": 2016,
+    "Race": "Hispanic",
+    "Count": 83
+  },
+  {
+    "Year": 2016,
+    "Race": "Asian",
+    "Count": 7
+  },
+  {
+    "Year": 2016,
+    "Race": "Native American",
+    "Count": 3
+  },
+  {
+    "Year": 2016,
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 4
+  },
+  {
+    "Year": 2017,
+    "Race": "White",
+    "Count": 1565
+  },
+  {
+    "Year": 2017,
+    "Race": "Black",
+    "Count": 1281
+  },
+  {
+    "Year": 2017,
+    "Race": "Hispanic",
+    "Count": 87
+  },
+  {
+    "Year": 2017,
+    "Race": "Asian",
+    "Count": 9
+  },
+  {
+    "Year": 2017,
+    "Race": "Native American",
+    "Count": 1
+  },
+  {
+    "Year": 2017,
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 4
+  },
+  {
+    "Year": 2018,
+    "Race": "White",
+    "Count": 1154
+  },
+  {
+    "Year": 2018,
+    "Race": "Black",
+    "Count": 957
+  },
+  {
+    "Year": 2018,
+    "Race": "Hispanic",
+    "Count": 67
+  },
+  {
+    "Year": 2018,
+    "Race": "Asian",
+    "Count": 6
+  },
+  {
+    "Year": 2018,
+    "Race": "Native American",
+    "Count": 2
+  },
+  {
+    "Year": 2018,
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 2
+  },
+  {
+    "Year": 2019,
+    "Race": "White",
+    "Count": 746
+  },
+  {
+    "Year": 2019,
+    "Race": "Black",
+    "Count": 799
+  },
+  {
+    "Year": 2019,
+    "Race": "Hispanic",
+    "Count": 45
+  },
+  {
+    "Year": 2019,
+    "Race": "Asian",
+    "Count": 6
+  },
+  {
+    "Year": 2019,
+    "Race": "Native American",
+    "Count": 4
+  },
+  {
+    "Year": 2019,
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 3
+  },
+  {
+    "Year": 2020,
+    "Race": "White",
+    "Count": 639
+  },
+  {
+    "Year": 2020,
+    "Race": "Black",
+    "Count": 922
+  },
+  {
+    "Year": 2020,
+    "Race": "Hispanic",
+    "Count": 42
+  },
+  {
+    "Year": 2020,
+    "Race": "Asian",
+    "Count": 3
+  },
+  {
+    "Year": 2020,
+    "Race": "Native American",
+    "Count": 2
+  },
+  {
+    "Year": 2020,
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 1
+  },
+  {
+    "Year": 2021,
+    "Race": "White",
+    "Count": 636
+  },
+  {
+    "Year": 2021,
+    "Race": "Black",
+    "Count": 1056
+  },
+  {
+    "Year": 2021,
+    "Race": "Hispanic",
+    "Count": 36
+  },
+  {
+    "Year": 2021,
+    "Race": "Asian",
+    "Count": 5
+  },
+  {
+    "Year": 2021,
+    "Race": "Native American",
+    "Count": 1
+  },
+  {
+    "Year": 2021,
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 1
+  },
+  {
+    "Year": 2022,
+    "Race": "White",
+    "Count": 612
+  },
+  {
+    "Year": 2022,
+    "Race": "Black",
+    "Count": 857
+  },
+  {
+    "Year": 2022,
+    "Race": "Hispanic",
+    "Count": 51
+  },
+  {
+    "Year": 2022,
+    "Race": "Asian",
+    "Count": 5
+  },
+  {
+    "Year": 2022,
+    "Race": "Native American",
+    "Count": 1
+  },
+  {
+    "Year": 2022,
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 0
+  },
+  {
+    "Year": 2023,
+    "Race": "White",
+    "Count": 1581
+  },
+  {
+    "Year": 2023,
+    "Race": "Black",
+    "Count": 2136
+  },
+  {
+    "Year": 2023,
+    "Race": "Hispanic",
+    "Count": 108
+  },
+  {
+    "Year": 2023,
+    "Race": "Asian",
+    "Count": 14
+  },
+  {
+    "Year": 2023,
+    "Race": "Native American",
+    "Count": 6
+  },
+  {
+    "Year": 2023,
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 3
+  },
+  {
+    "Year": 2024,
+    "Race": "White",
+    "Count": 717
+  },
+  {
+    "Year": 2024,
+    "Race": "Black",
+    "Count": 1080
+  },
+  {
+    "Year": 2024,
+    "Race": "Hispanic",
+    "Count": 52
+  },
+  {
+    "Year": 2024,
+    "Race": "Asian",
+    "Count": 1
+  },
+  {
+    "Year": 2024,
+    "Race": "Native American",
+    "Count": 1
+  },
+  {
+    "Year": 2024,
+    "Race": "Native Hawaiian/Pacific Islander",
+    "Count": 1
+  }
+]
